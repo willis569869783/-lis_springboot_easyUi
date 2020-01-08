@@ -1,0 +1,9 @@
+[
+	{
+		"id": 1,
+		"text": "贷款机构管理",
+		"attributes": {
+			"url": "BorrowOrg.jsp"
+		}
+	}
+]

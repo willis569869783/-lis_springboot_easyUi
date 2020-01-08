@@ -1,0 +1,9 @@
+[
+	{
+		"id": 1,
+		"text": "教师管理",
+		"attributes": {
+			"url": "Teacher.jsp"
+		}
+	}
+]
